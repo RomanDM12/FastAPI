@@ -1,0 +1,11 @@
+Linux Console: 
+chmod +x main.py
+uvicorn:main:app
+||
+Uvicorn running on -> follow link
+
+addresses: /docs
+	   /index
+	   /messages
+	   /message/hello{name}
+	   /message/bye/{name}
