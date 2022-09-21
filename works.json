@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Тени в раю",
+      "text": "sdfafasfasdfsadfsaffdsfdasfafsdfaffasfafdfdsfsdfsdfsafsffsaffasfsdfsfsdfsafdfsafsdfsdfsdfjdsfiofhgrw;ghagughfsdjf;lafdskjfjdakfkafdjksfjaksfjksadfjksdfjksdfjksdjlkfsdljkflfjlksdafljksdfljksdfsajlfksadjlkfsdjlkfjlkfajklfsjkalfjkslfjklsdfjkfjksdjklfjfdjklfjkslafjkladsfjkldsfjlkdsfjlksdjkflsfasflf"
+    },
+    {
+      "author": "Remark",
+      "title": "Три товарища"
+    },
+    {
+      "author": "Remark",
+      "title": "Ночь в лиссабоне"
+    }
+  ]
+}
