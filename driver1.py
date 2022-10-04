@@ -3,8 +3,8 @@
 import fuse
 from fude import Fuse
 import stat, errno
-import json
 import os
+import json
 import requests
 
 fuse.fuse_python_api = (0, 2)
